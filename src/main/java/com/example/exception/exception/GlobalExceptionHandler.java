@@ -2,6 +2,7 @@ package com.example.exception.exception;
 
 import com.example.exception.i18n.I18nService;
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ProblemDetail;
@@ -38,6 +39,7 @@ import java.net.URI;
 @RequiredArgsConstructor
 public class GlobalExceptionHandler {
 
+    @Setter
     @Value("${spring.application.error-uri}")
     private String errorUri;
 
