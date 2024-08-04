@@ -7,9 +7,9 @@ In this article, we will delve into the significance of global exception handlin
 
 <b>Author:</b> <a href="https://github.com/spring-boot-react-nextjs" target="_blank">spring-boot-react-nextjs</a><br>
 <b>Created:</b> 2024-07-07<br>
-<b>Last updated:</b> 2024-07-07
+<b>Last updated:</b> 2024-08-04
 
-[![](https://img.shields.io/badge/Spring%20Boot-8A2BE2)]() [![](https://img.shields.io/badge/release-Jun%2020,%202024-blue)]() [![](https://img.shields.io/badge/version-3.3.1-blue)]()
+[![](https://img.shields.io/badge/Spring%20Boot-8A2BE2)]() [![](https://img.shields.io/badge/release-Jul%2018,%202024-blue)]() [![](https://img.shields.io/badge/version-3.3.2-blue)]()
 
 ## 1. Why Global Exception Handling Matters?
 1. <b>Centralized Error Handling:</b> <strong>Global exception handling</strong> allows developers to centralize error-handling logic, making it easier to manage and maintain.<br/>
